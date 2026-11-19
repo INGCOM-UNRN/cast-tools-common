@@ -106,3 +106,6 @@ cast-sign --channel unlisted slide-tools
 Las credenciales de AMO salen de `--api-key`/`--api-secret`, de `WEB_EXT_API_KEY` y
 `WEB_EXT_API_SECRET` (o `AMO_JWT_ISSUER`/`AMO_JWT_SECRET`) o de un `.env` en la raíz.
 
+## Contacto
+
+Martín René Vilugrón - mrvilugron@unrn.edu.ar - Ingeniería en Computación UNRN Andina
